@@ -1,5 +1,5 @@
 ### Olá, Eu sou o Bruno Costa
-Sou de São Paulo, Brasil. Estou estudando para me tornar um Desenvolvedor Full-Stack Jr 👨🏻‍💻 no momento estou estudando pela Trybe para acelerar esse processo de desenvolvimento.
+Estou estudando para me tornar um Desenvolvedor Full-Stack Jr 👨🏻‍💻 no momento estou estudando pela Trybe para acelerar esse processo de desenvolvimento.
  <div>
   <a href="https://github.com/dock32">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Dock32&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
